@@ -1,0 +1,93 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Exclude entire platform-specific folders
+android/
+ios/
+web/
+macos/
+linux/
+windows/
+
+# Generated Flutter files
+.metadata
+.pub-cache/
+.packages
+.pub/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+pubspec.lock
+
+# VSCode settings (optional, uncomment if not to be included in version control)
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Android-specific files (already excluded by `android/`, but included for clarity)
+android/.gradle/
+android/app/build/
+android/app/debug
+android/app/profile
+android/app/release
+android/local.properties
+
+# iOS-specific files (already excluded by `ios/`, but included for clarity)
+ios/Flutter/
+ios/Pods/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace/
+
+# macOS-specific files (already excluded by `macos/`, but included for clarity)
+macos/Flutter/ephemeral/
+
+# Web-specific files (already excluded by `web/`, but included for clarity)
+web/.dart_tool/
+
+# Linux-specific files (already excluded by `linux/`, but included for clarity)
+linux/flutter/
+
+# Windows-specific files (already excluded by `windows/`, but included for clarity)
+windows/flutter/
+
+# Firebase (if applicable)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Temporary files or backups
+*.tmp
+*~
+*.bak
+*.swp
+*.log
+*.tmp
+*.orig
+
+#
