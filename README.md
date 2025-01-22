@@ -27,7 +27,7 @@ NotesApp is a feature-rich note-taking application built using Flutter. It offer
 
 ## Screenshots
 
-<div style="display: flex; flex-direction: row;">
-  <img src="notesc/01.jpg" alt="Home Screen" width="250" height="500">
-  <img src="notesc/02.jpg" alt="Add Note Screen" width="250" height="500">
+<div style="display: flex; flex-direction: column;">
+  <img src="notessc/01.jpg" alt="Home Screen" width="250" height="500">
+  <img src="notessc/02.jpg" alt="Add Note Screen" width="250" height="500">
 </div>
